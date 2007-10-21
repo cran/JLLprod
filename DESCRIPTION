@@ -1,10 +1,11 @@
 Package: JLLprod
 Title: Nonparametric Estimation of Homothetic and Generalized Homothetic Production Functions
-Version: 1.0.0
-Date: 20/06/2005
+Version: 1.0.1
+Date: 2007-10-21
 Author: David Tomás Jacho-Chávez
 Description: This package implements the Lewbel and Linton (2003), Lewbel and Linton (2005) and Jacho-Chávez, Lewbel and Linton (2005) nonparametric estimators of Homothetic and Generalized Homothetic production functions.
-Maintainer: David T. Jacho-Chávez <D.T.JACHO-CHAVEZ@lse.ac.uk>
+Maintainer: ORPHANED
 License: Free for non-commercial use.
 URL: http://personal.lse.ac.uk/jachocha/
-Packaged: Wed Feb  8 12:58:23 2006; hornik
+Encoding: latin1
+Packaged: Sun Oct 21 00:28:13 2007; hornik
